@@ -51,7 +51,7 @@ Audio Atlas is a web application designed to visualize audio data using text-aud
 4. Run the application using Docker Compose:
 
    ```bash
-   docker-compose up --build
+   docker-compose up --build -d
    ```
 
 4. Access the web app at `http://localhost:3000`.
