@@ -68,7 +68,7 @@ To add a new dataset, configure the `config.json` file with the following detail
 Run the provided script to process and import the dataset:
 
 ```bash
-bash import_dataset.sh
+bash setup.sh
 ```
 
 ## Usage
